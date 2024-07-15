@@ -12,7 +12,7 @@ export const GET = (req: Request) => {
             actions: [
               {
                 href: `/api/actions/memo/numbers`,
-                label: 'Donate',
+                label: 'Buy Lottery',
                 parameters: [
                   {
                     name: "first_number",
